@@ -1,0 +1,13 @@
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.csproj.AssemblyReference.cache
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.AssemblyInfoInputs.cache
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.AssemblyInfo.cs
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/netcoreapp3.1/ArchitectArithmetic.deps.json
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/netcoreapp3.1/ArchitectArithmetic.runtimeconfig.json
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/netcoreapp3.1/ArchitectArithmetic.runtimeconfig.dev.json
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/netcoreapp3.1/ArchitectArithmetic.dll
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/netcoreapp3.1/ArchitectArithmetic.pdb
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.dll
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.pdb
+/Users/emmadebarros/Projects/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/netcoreapp3.1/ArchitectArithmetic.genruntimeconfig.cache

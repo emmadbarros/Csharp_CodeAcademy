@@ -1,0 +1,13 @@
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/bin/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.deps.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/bin/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.runtimeconfig.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/bin/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.runtimeconfig.dev.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/bin/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.dll
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/bin/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.pdb
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.csproj.AssemblyReference.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.AssemblyInfoInputs.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.AssemblyInfo.cs
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.csproj.CoreCompileInputs.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.dll
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.pdb
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpseRefactored/ExquisiteCorpseRefactored/obj/Debug/netcoreapp3.1/ExquisiteCorpseRefactored.genruntimeconfig.cache

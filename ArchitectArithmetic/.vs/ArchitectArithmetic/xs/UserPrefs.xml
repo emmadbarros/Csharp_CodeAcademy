@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{03D3BBF3-2DE5-4E71-BE02-B60E6B4A8CEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArchitectArithmetic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArchitectArithmetic/Program.cs">
+    <Files>
+      <File FileName="ArchitectArithmetic/Program.cs" Line="21" Column="109" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArchitectArithmetic" expanded="True">
+            <Node name="ArchitectArithmetic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

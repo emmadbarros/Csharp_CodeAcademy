@@ -1,0 +1,13 @@
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/netcoreapp3.1/ExquisiteCorpse.deps.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/netcoreapp3.1/ExquisiteCorpse.runtimeconfig.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/netcoreapp3.1/ExquisiteCorpse.runtimeconfig.dev.json
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/netcoreapp3.1/ExquisiteCorpse.dll
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/netcoreapp3.1/ExquisiteCorpse.pdb
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.csproj.AssemblyReference.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.AssemblyInfoInputs.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.AssemblyInfo.cs
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.csproj.CoreCompileInputs.cache
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.dll
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.pdb
+/Users/emmadebarros/Projects/CodeAcademy_C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/netcoreapp3.1/ExquisiteCorpse.genruntimeconfig.cache

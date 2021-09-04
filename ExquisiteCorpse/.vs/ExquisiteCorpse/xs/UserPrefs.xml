@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4CEEF07D-876A-4AFB-90D4-15F977A1D1C5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExquisiteCorpse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExquisiteCorpse/Program.cs">
+    <Files>
+      <File FileName="ExquisiteCorpse/Program.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExquisiteCorpse" expanded="True">
+            <Node name="ExquisiteCorpse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
