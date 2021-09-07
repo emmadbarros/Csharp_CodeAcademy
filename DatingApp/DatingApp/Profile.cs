@@ -63,9 +63,16 @@ namespace DatingApp
 
             set
             {
-                if (value < 1 || value > 150)
+                if (value < 18 || value > 150)
                 {
-                    throw new InvalidDataException("Age must be between 1 and 150.");
+                    if (value < 18)
+                    {
+                        throw new InvalidDataException("Sorry, you must be 18 years or older to use this app.");
+                    }
+                    else
+                    {
+                        throw new InvalidDataException("Age must be between 18 and 150.");
+                    }
                 }
                 _age = value;
             }
