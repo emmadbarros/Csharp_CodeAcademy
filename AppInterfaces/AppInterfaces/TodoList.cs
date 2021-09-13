@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AppInterfaces
 {
-    public class TodoList : IDisplayable
+    public class TodoList : IDisplayable, IResetable
     {
         //FIELD(s)
         private int nextOpenIndex;
@@ -10,6 +10,8 @@ namespace AppInterfaces
         //PROPERTIE(s)
         public string[] Todos
         { get; private set; }
+
+        public string HeaderSymbol => "-";
 
 
         //CONSTRUCTOR(s)
@@ -34,11 +36,31 @@ namespace AppInterfaces
 
         public void Display()
         {
-            Console.WriteLine("Your todos: ");
+            Console.WriteLine("TODOS");
+            for (int x = 0; x < 10; x++)
+            {
+                Console.Write(HeaderSymbol);
+                if (x == 9)
+                {
+                    Console.WriteLine();
+                }
+            }
             foreach (string td in Todos)
             {
-                Console.WriteLine($"> {td}");
+                if (string.IsNullOrEmpty(td))
+                {
+                    Console.WriteLine("> []");
+                } else
+                {
+                    Console.WriteLine($"> {td}");
+                }
             }
+        }
+
+        public void Reset()
+        {
+            Todos = new string[5];
+            nextOpenIndex = 0;
         }
     }
 }
